@@ -8,4 +8,5 @@ public class Main {
             System.out.println("Hello, Guru 2 !");
         }
     }
-// Измененеия в Intelij Idea !
+// Измененеия в Intelij Idea
+// Изменения на GitHub 1
