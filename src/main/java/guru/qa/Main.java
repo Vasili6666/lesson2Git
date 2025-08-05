@@ -8,3 +8,4 @@ public class Main {
             System.out.println("Hello, Guru 2 !");
         }
     }
+// Изменения на GitHub
