@@ -6,6 +6,8 @@ public class Main {
     public static void main(String[] args) {
 
             System.out.println("Hello, Guru 2 !");
+        System.out.println("20:36");
         }
     }
 // изменние в ветке main 20:17
+// изменние в ветке main 20:28
