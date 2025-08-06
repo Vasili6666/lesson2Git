@@ -6,4 +6,4 @@ public class Main {
             System.out.println("Hello, Guru 2 !");
         }
     }
-// изменние в ветке additional branch 20:21
+// изменeние в ветке additional branch 20:21
